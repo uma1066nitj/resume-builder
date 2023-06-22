@@ -27,29 +27,14 @@ The "react-to-print" library allows you to easily add a print functionality to y
 1. Install the library using npm: npm i react-to-print
 
 2. Import the necessary components in your code:
-```jsx
-import { useReactToPrint } from 'react-to-print';
-4. Use the useReactToPrint hook to create a print function in your component:
-const componentRef = useRef();
+3. Use the useReactToPrint hook to create a print function in your component:
 
-const handlePrint = useReactToPrint({
-  content: () => componentRef.current,
-});
-
-return (
-  <div>
-    <ComponentToPrint ref={componentRef} />
-    <button onClick={handlePrint}>Print</button>
-  </div>
-);
-Replace ComponentToPrint with your own component that you want to print.
 
 ### react-feather
 This package provides a collection of customizable icons for your application. To install it, follow these steps:
 1. Install the library using npm: npm i react-feather
-
+2. Import the necessary components in your code
  
-
 In the Resume, these sections were included : 
 
 
