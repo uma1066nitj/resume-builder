@@ -74,9 +74,11 @@ In the Resume, these sections were included :
 
 ### Summary
 - **Section Title**: Summary
+
 - **Detail**: [Add your summary here]
 
 ### Other
 - **Section Title**: Other
 - **Detail**: [Add any other relevant information here]
 
+Screenshots - ![Screenshot (127)](https://github.com/uma1066nitj/resume-builder/assets/64903970/f5469866-0e81-4a86-925f-bb68ee26b5d8)
